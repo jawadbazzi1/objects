@@ -1,0 +1,11 @@
+Model Information:
+* title:	Male human body
+* source:	https://sketchfab.com/3d-models/male-human-body-9350c70c446d403eadb43e87cd43f3cd
+* author:	Izaskun_Arraiz (https://sketchfab.com/Izaskun_Arraiz)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Male human body" (https://sketchfab.com/3d-models/male-human-body-9350c70c446d403eadb43e87cd43f3cd) by Izaskun_Arraiz (https://sketchfab.com/Izaskun_Arraiz) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
