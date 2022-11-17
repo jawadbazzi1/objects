@@ -1,0 +1,11 @@
+Model Information:
+* title:	UCL CRISTI
+* source:	https://sketchfab.com/3d-models/ucl-cristi-a441abecf63e4a79af80246aeb14acd4
+* author:	cristianflorian9 (https://sketchfab.com/cristianflorian9)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "UCL CRISTI" (https://sketchfab.com/3d-models/ucl-cristi-a441abecf63e4a79af80246aeb14acd4) by cristianflorian9 (https://sketchfab.com/cristianflorian9) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
