@@ -1,0 +1,11 @@
+Model Information:
+* title:	Adidas Predator by DigitWorlds.com
+* source:	https://sketchfab.com/3d-models/adidas-predator-by-digitworldscom-18418ee05f9a4143a3a14a2e0e5facbf
+* author:	Przemek Gesicki - DigitWorlds (https://sketchfab.com/DigitWorlds)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Adidas Predator by DigitWorlds.com" (https://sketchfab.com/3d-models/adidas-predator-by-digitworldscom-18418ee05f9a4143a3a14a2e0e5facbf) by Przemek Gesicki - DigitWorlds (https://sketchfab.com/DigitWorlds) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)

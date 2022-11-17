@@ -1,0 +1,239 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 35796,
+      "max": [
+        3.6757469177246094,
+        13.607135772705078,
+        2.536478042602539
+      ],
+      "min": [
+        -4.779743194580078,
+        9.621718406677246,
+        -2.045625925064087
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 429552,
+      "componentType": 5126,
+      "count": 35796,
+      "max": [
+        0.9999479651451111,
+        0.9999898076057434,
+        0.9997662305831909
+      ],
+      "min": [
+        -0.9999979138374329,
+        -0.9998789429664612,
+        -0.9998917579650879
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 35796,
+      "max": [
+        0.9999858140945435,
+        0.9999555349349976,
+        0.9997207522392273,
+        1.0
+      ],
+      "min": [
+        -0.9999847412109375,
+        -0.9999297857284546,
+        -0.9998825192451477,
+        1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 35796,
+      "max": [
+        0.9967049956321716,
+        0.9999889731407166
+      ],
+      "min": [
+        2.300000051036477e-05,
+        0.00011899999663000926
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 180000,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Przemek Gesicki - DigitWorlds (https://sketchfab.com/DigitWorlds)",
+      "license": "CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)",
+      "source": "https://sketchfab.com/3d-models/adidas-predator-by-digitworldscom-18418ee05f9a4143a3a14a2e0e5facbf",
+      "title": "Adidas Predator by DigitWorlds.com"
+    },
+    "generator": "Sketchfab-12.66.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 720000,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 286368,
+      "byteOffset": 720000,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 859104,
+      "byteOffset": 1006368,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 572736,
+      "byteOffset": 1865472,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 2438208,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/PBR_predator_baseColor.jpeg"
+    },
+    {
+      "uri": "textures/PBR_predator_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/PBR_predator_normal.jpeg"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "PBR_predator",
+      "normalTexture": {
+        "index": 2,
+        "scale": 0.7052220582858711
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.4665540768517279,
+        "metallicRoughnessTexture": {
+          "index": 1
+        },
+        "roughnessFactor": 0.5293614403870287
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Object_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        0.9998840093612671,
+        0.015229524113237858,
+        1.6469101889433308e-18,
+        0.0,
+        0.010628613643348217,
+        -0.6978144049644469,
+        -0.7161997556686402,
+        0.0,
+        -0.010907381772994995,
+        0.7161166667938234,
+        -0.6978953480720519,
+        0.0,
+        -0.12083239108324051,
+        8.614816665649414,
+        -2.9271581172943097,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "name": "PBR_predator.obj.cleaner.materialmerger.gles"
+    },
+    {
+      "mesh": 0,
+      "name": "Object_2"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    }
+  ]
+}
