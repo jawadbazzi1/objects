@@ -1,0 +1,11 @@
+Model Information:
+* title:	EPL Cup
+* source:	https://sketchfab.com/3d-models/epl-cup-b2f0d28025084df086cf40b2295a7432
+* author:	feisalkassim (https://sketchfab.com/FeisalKassim)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "EPL Cup" (https://sketchfab.com/3d-models/epl-cup-b2f0d28025084df086cf40b2295a7432) by feisalkassim (https://sketchfab.com/FeisalKassim) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
