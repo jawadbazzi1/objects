@@ -1,0 +1,11 @@
+Model Information:
+* title:	FootBall
+* source:	https://sketchfab.com/3d-models/football-72a3f17f6d0245ef9b047ff813c6f647
+* author:	kdilipramprasath (https://sketchfab.com/kdilipramprasath)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "FootBall" (https://sketchfab.com/3d-models/football-72a3f17f6d0245ef9b047ff813c6f647) by kdilipramprasath (https://sketchfab.com/kdilipramprasath) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
