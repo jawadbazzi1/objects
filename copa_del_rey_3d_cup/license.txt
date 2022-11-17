@@ -1,0 +1,11 @@
+Model Information:
+* title:	Copa Del Rey 3d cup
+* source:	https://sketchfab.com/3d-models/copa-del-rey-3d-cup-4120bebe817c432e9a00affca0be7c14
+* author:	Berezgen (https://sketchfab.com/Berezgen)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Copa Del Rey 3d cup" (https://sketchfab.com/3d-models/copa-del-rey-3d-cup-4120bebe817c432e9a00affca0be7c14) by Berezgen (https://sketchfab.com/Berezgen) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
