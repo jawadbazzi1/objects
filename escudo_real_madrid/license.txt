@@ -1,0 +1,11 @@
+Model Information:
+* title:	Escudo Real Madrid
+* source:	https://sketchfab.com/3d-models/escudo-real-madrid-2e740efe775b41b98ebcdbfc32709370
+* author:	CadForCam (https://sketchfab.com/yuelands)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Escudo Real Madrid" (https://sketchfab.com/3d-models/escudo-real-madrid-2e740efe775b41b98ebcdbfc32709370) by CadForCam (https://sketchfab.com/yuelands) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
