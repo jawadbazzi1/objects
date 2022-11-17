@@ -1,0 +1,11 @@
+Model Information:
+* title:	Hublot Substitution Board
+* source:	https://sketchfab.com/3d-models/hublot-substitution-board-d344cdfbcd104a5097fb19f0559beb73
+* author:	DeShawn E. (https://sketchfab.com/TNeckDME)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Hublot Substitution Board" (https://sketchfab.com/3d-models/hublot-substitution-board-d344cdfbcd104a5097fb19f0559beb73) by DeShawn E. (https://sketchfab.com/TNeckDME) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
