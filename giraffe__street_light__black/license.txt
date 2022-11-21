@@ -1,0 +1,11 @@
+Model Information:
+* title:	Giraffe / Street Light / Black
+* source:	https://sketchfab.com/3d-models/giraffe-street-light-black-f735183388ec4be6b9ffe3a77b978e5e
+* author:	invisiprim (https://sketchfab.com/invisiprim)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Giraffe / Street Light / Black" (https://sketchfab.com/3d-models/giraffe-street-light-black-f735183388ec4be6b9ffe3a77b978e5e) by invisiprim (https://sketchfab.com/invisiprim) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
